@@ -1,6 +1,6 @@
 <h1 align="center">👋 Daniel López</h1>
 
-<h3 align="center">Desarrollador Full Stack | IA & Big Data Specialist</h3>
+<h3 align="center">Desarrollador de Software | IA & Big Data Specialist</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tu-perfil">LinkedIn</a> •
