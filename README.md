@@ -50,17 +50,6 @@ DevOps      ████████████░░░░░░░░░  Doc
 - 📚 Profundizando en Machine Learning y Big Data
 - 🌱 Siempre aprendiendo nuevas tecnologías
 
-### 📬 Conecta conmigo
-
-<p align="center">
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tu-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danilopez8&label=Visitas&color=0e75b6&style=flat" alt="Visitas"/>
 </p>
